@@ -1,0 +1,1 @@
+au BufNewFile,BufRead *.chpl set filetype=chpl
