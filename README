@@ -1,6 +1,10 @@
 These files are some Chapel libraries that I am playing around
-with, along with some extras (e.g., syntax highlighting files)
-for the Chapel language.
+with.
+
+So far, this includes:
+  * A Mersenne Twister random number generator
+
+More to come!
 
 
 License: MIT Public License
